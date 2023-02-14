@@ -1,2 +1,2 @@
 #!/bin/bash
-cp 'Hello, World'
+lp 'Hello, World'
